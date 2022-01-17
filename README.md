@@ -2,7 +2,7 @@
 
 Your tasks is to write a simple Star wars Fan page. 
 
-# Apis: https://swapi.com
+# Apis: https://swapi.dev
 Click on the Documentation in the upper right corner. In the documentation, please find the panel with categories in the left side and utilize that to create the application..
 
 
