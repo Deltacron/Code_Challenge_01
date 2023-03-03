@@ -17,7 +17,7 @@ Write a React app that utilizes API from the above URL
     <li>Push the code to a public GitHub repo with a README.md that explains how to execute the app.</li>
 </ol>
 
-# BONUS
+# Bonus
 * Frequent and thoughtful commits.
 * Dockerize the app.
 * Write realistic unit/end-to-end tests.
