@@ -13,7 +13,7 @@ Write a React app that utilize api from the above url
 	<li>Utilize the apis and create Home page with at least three categories using the 'Resources' panel from the above website. </li>
 	<li>When user clicks on a category, it will navigate to another page with list of subitems in that category.</li>
 	<li>Display spinner or placeholder component while the API request is ongoing.</li>
-	<li>Make it look decent. NO need for super sophisticated design, but a minimum, make it somewhat responsive so that it doesn’t look terrible on a mobile phone. Add images for each device.</li>
+	<li>Make it look decent and responsive so that it doesn’t look terrible on a mobile phone. Add images for each device.</li>
 	<li>Push the code to a public github repo wilth a README.md that explains how to execute the app.</li>
 </ul>
 
