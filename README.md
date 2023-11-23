@@ -7,7 +7,7 @@ Your task is to write a simple Star Wars fan page.
     <li>Use Typescript for the code structure.</li>
     <li>Please use simple CSS. DO NOT use any third-party library for styling.</li>
     <li>Project output should be a proper website with all the necessary elements i.e navbar, footer, etc.</li>
-    <li>The Recommended duration for this task is 24 hours.</li>
+    <li>The recommended duration for this task is 24-36 hours.</li>
 </ol>
 
 # Apis: https://swapi.dev
