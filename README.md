@@ -18,12 +18,13 @@ For reference, please visit <b>https://www.starwars.com/</b>.
 # Steps
 Write a React app that utilizes API from the above URL
 <ol>
-    <li>Use redux-toolkit / context API for state management and Axios (or similar library) for fetching data from APIs.</li>
-    <li>Utilize the APIs and create a Home page with at least three categories using the 'Resources' panel from the above website. </li>
-    <li>When a user clicks on a category, it will navigate to another page with a list of subitems in that category.</li>
-    <li>Display spinner or placeholder component while the API request is ongoing.</li>
-    <li>Make it look decent and responsive so that it doesn’t look terrible on a mobile phone. Add images for each category.</li>
-    <li>Push the code to a public GitHub repo with a README.md that explains how to execute the app.</li>
+    <li>Manage state with redux-toolkit or context API and fetch data using Axios or a similar library.</li>
+    <li>Use the APIs to build a Home page with a minimum of three categories based on the 'Resources' panel from the website above. </li>
+    <li>Clicking on a category takes the user to a page with a list of subitems in that category.</li>
+    <li>When user clicks on an item from list, it should redirect user to a page with detail information regarding that item.</li>
+    <li>Show a spinner or placeholder while waiting for the API request.</li> 
+    <li>Ensure a pleasing and responsive design, especially on mobile, and include images for each category / detailed page.</li>
+    <li>Upload the code to a public GitHub repository and include a README.md explaining how to run the app.</li>
 </ol>
 
 # Bonus
