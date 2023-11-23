@@ -1,6 +1,6 @@
 # Code Challenge 01
 
-Your task is to write a simple Star Wards fan page.
+Your task is to write a simple Star Wars fan page.
 
 # Prerequisites
 <ol>
