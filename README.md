@@ -27,7 +27,12 @@ Write a React app that utilizes API from the above URL
     <li>Upload the code to a public GitHub repository and include a README.md explaining how to run the app.</li>
 </ol>
 
+# Deployment
+Once you complete the challenge after carefully following the instructions, make sure to host your app on any free hosting i.e. Vercel, Netlify, or similar.
+
 # Bonus
 * Frequent and thoughtful commits.
 * Dockerize the app.
 * Write realistic unit/end-to-end tests.
+
+# Good luck!
